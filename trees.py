@@ -1,6 +1,6 @@
 import pandas as pd
 
-paper = pd.read_csv('PittsburghTrees.csv')
+paper = pd.read_csv('trees.csv')
 existant = paper.dropna()
 alive = existant.loc[existant['condition'] != 'Dead']
 # Drops dead, inapplicable, and nonexistant trees from the dataset.
