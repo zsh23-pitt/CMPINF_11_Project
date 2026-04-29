@@ -45,5 +45,3 @@ for i in alive.index:
                     hood.loc[j,'score'] += 1.3
                     hood.loc[j, 'well'] += 1
             break
-
-print(hood)
