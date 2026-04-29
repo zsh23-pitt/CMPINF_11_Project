@@ -2,8 +2,8 @@ Team Save the Trees
 
 Team Members:
 Zach Hiland (zsh23@pitt.edu),
-Benjamin Kessler (bek127@pitt.edu),
-Ammar Kanafani (mik210@pitt.edu)
+Ammar Kanafani (mik210@pitt.edu),
+Benjamin Kessler (bek127@pitt.edu)
 
 Datasets Used:
 
